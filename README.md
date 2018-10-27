@@ -8,4 +8,4 @@ todo-angularjs can be used on [https://vantezzen.github.io/todo-angularjs](https
 Clone the repository, then open `index.html`.
 
 # Other todo apps
-[todo-vue](https://vantezzen.github.io/todo-vue)
+[todo-vue](https://github.com/vantezzen/todo-vue)
