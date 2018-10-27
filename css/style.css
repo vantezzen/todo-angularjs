@@ -1,0 +1,30 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.card {
+    max-width: 800px; 
+    border-radius: 0;
+    border: 0;
+    box-shadow: 5px 5px 30px 3px rgba(0, 0, 0, 0.3);
+}
+
+.todo-item {
+    cursor: pointer;
+}
+
+.item-done .item-text {
+    color: #6c757d;
+    text-decoration: line-through !important;
+}
+
+.add-task {
+    border-radius: 0;
+    border: 0;
+    padding-left: 1.25rem;
+    margin-top: 0.5rem;
+}
+.add-task:focus {
+    box-shadow: none;
+    border: 0;
+}
