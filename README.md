@@ -9,3 +9,4 @@ Clone the repository, then open `index.html`.
 
 # Other todo apps
 [todo-vue](https://github.com/vantezzen/todo-vue)
+[todo-react](https://github.com/vantezzen/todo-react)
